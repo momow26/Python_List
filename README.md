@@ -32,6 +32,6 @@ git push origin + 分支名
 或者10.拉下远程分支到本地
 git pull origin + 分支名
 11.设置全局变量
-git config --global user.email "momow@26163.com"
+git config --global user.email "momow26@163.com"
 git config --global user.name "momow26"
 
