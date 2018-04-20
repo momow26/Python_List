@@ -3,6 +3,7 @@
 
 
 def main():
+    # 分数为s列表
     scores = [95, 78, 62, 99, 45, 32, 80]
     # print(max(scores))
     # print(min(scores))
